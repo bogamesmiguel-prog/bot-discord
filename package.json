@@ -1,0 +1,13 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "Bot de fila Discord",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node Index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1"
+  }
+}
